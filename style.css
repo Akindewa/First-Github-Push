@@ -20,7 +20,7 @@ body{
 }
 .perfume-image{
     /* border: 1px solid red; */
-    background-image: url(/image/image-product-desktop.jpg);
+    background-image: url(product-desktop.jpg);
     background-position: center;
     background-size: cover;
     width: 17rem;
