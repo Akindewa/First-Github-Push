@@ -20,7 +20,7 @@ body{
 }
 .perfume-image{
     /* border: 1px solid red; */
-    background-image: url(product-desktop.jpg);
+    background-image: url(image-product-desktop.jpg);
     background-position: center;
     background-size: cover;
     width: 17rem;
@@ -111,7 +111,7 @@ body{
     }
     
     .perfume-image{
-        background-image: url(/image/image-product-mobile.jpg);
+        background-image: url(image-product-mobile.jpg);
         background-position: center;
         background-size: cover;
         width: 100%;
